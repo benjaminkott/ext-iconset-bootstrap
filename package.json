@@ -1,6 +1,6 @@
 {
   "name": "ext-iconset-bootstrap",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "dependencies": {
     "bootstrap-icons": "^1.13.1"
